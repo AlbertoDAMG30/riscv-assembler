@@ -299,12 +299,17 @@ diff output.hex rars_output.hex
 
 ## 👨‍💻 Author
 
-**Alberto Murillo Delgado**
-- Student ID: 2022023613
+**David Alberto Mirandda Gonzalez**
+- Student ID: 2020207762
 - Course: EL-3310 Digital Systems Design
 - Institution: Costa Rica Institute of Technology (TEC)
 - Professor: Ernesto Rivera Alvarado
-- Semester: 2024
+
+**Valeria Santamaria Vargas**
+- Student ID: 2022138144
+- Course: EL-3310 Digital Systems Design
+- Institution: Costa Rica Institute of Technology (TEC)
+- Professor: Ernesto Rivera Alvarado
 
 ## 📄 License
 
